@@ -1,0 +1,27 @@
+{
+  "name": "create-fm-post-cli",
+  "version": "0.1.0",
+  "description": "A CLI for creating Front Matter Posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidfekke/create-fm-post-cli"
+  },
+  "keywords": [
+    "CLI",
+    "Front",
+    "Matter"
+  ],
+  "author": "David Fekke",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/davidfekke/create-fm-post/issues"
+  },
+  "homepage": "https://github.com/davidfekke/create-fm-post",
+  "dependencies": {
+    "commander": "^2.8.0"
+  }
+}
